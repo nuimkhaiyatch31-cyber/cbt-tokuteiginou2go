@@ -106,8 +106,7 @@ options:[
 answer:0,
 
 explanation:
-"鉄骨部材を使って骨組みを組み上げる作業です。Artinya:
-“Pekerjaan merakit rangka gedung tinggi atau apartemen menggunakan material baja.”
+"鉄骨部材を使って骨組みを組み上げる作業です。Artinya:“Pekerjaan merakit rangka gedung tinggi atau apartemen menggunakan material baja.”
 
 Karena 鉄骨とび (てっこつとび) adalah pekerjaan tukang scaffolding/besi yang khusus merakit rangka baja bangunan tinggi."
 
