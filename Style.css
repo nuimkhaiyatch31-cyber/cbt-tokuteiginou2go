@@ -254,3 +254,17 @@ rt{
     margin-bottom:20px;
 
 }
+
+#premiumMessage{
+
+    text-align:center;
+
+    line-height:2;
+
+    margin-top:20px;
+
+    font-size:18px;
+
+    color:#374151;
+
+}
