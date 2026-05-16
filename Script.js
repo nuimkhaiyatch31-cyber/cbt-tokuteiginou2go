@@ -1412,3 +1412,80 @@ document.getElementById(
 loadQuestion();
 
 }
+
+// ======================
+// RESULT PAGE
+// ======================
+
+if(
+document.getElementById(
+"scoreText"
+)
+){
+
+const selectedSet =
+
+localStorage.getItem(
+"selectedSet"
+);
+
+
+
+document.getElementById(
+"scoreText"
+).innerText =
+
+localStorage.getItem(
+"score"
+)
+
++
+
+" / "
+
++
+
+questionSets[selectedSet].length;
+
+
+
+
+
+// ======================
+// DEMO MODE
+// ======================
+
+if(selectedSet === "demo"){
+
+
+
+// sembunyikan tombol
+document.getElementById(
+"otherQuizBtn"
+).style.display = "none";
+
+
+
+// tampilkan pesan premium
+document.getElementById(
+"premiumMessage"
+).innerHTML =
+
+`
+
+<br><br>
+
+<b>
+Ingin mengakses seluruh soal CBT?
+</b>
+
+<br><br>
+
+Silahkan melakukan pembayaran
+untuk mendapatkan akun premium.
+
+`;
+
+}
+
+}
