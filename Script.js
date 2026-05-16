@@ -1481,12 +1481,7 @@ Ingin mengakses seluruh soal CBT?
 
 <br><br>
 
-Silahkan melakukan pembayaran ke 
-DANA : 081932942430 atas nama (Nuim khaiyatch)
-
-OVO : 081932942430 atas nama (Denia Retno Anjani)
-
-Transfer Bank Mandiri : 1340024106519 atas nama (Denia Retno Anjani)
+Silahkan melakukan pembayaran
 untuk mendapatkan akun premium.
 
 `;
