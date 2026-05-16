@@ -5,10 +5,25 @@
 const users = [
 
 {
-username:"dody",
+username:"mantono",
 password:"12345"
 },
 
+{
+username:"hendi",
+password:"12345"
+},
+
+{
+username:"feby",
+password:"12345"
+},
+
+{
+username:"kevin",
+password:"12345"
+},
+  
 {
 username:"rei",
 password:"abc123"
