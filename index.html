@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>CBT JLPT</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>特定技能2号建設分野</h1>
+
+<div class="top-bar">
+
+<div>
+User:
+<span id="userName"></span>
+</div>
+
+<div>
+Soal:
+<span id="questionNumber"></span>
+</div>
+
+<div>
+Timer:
+<span id="timer">30:00</span>
+</div>
+
+</div>
+
+<div
+class="question"
+id="question"></div>
+
+<div id="options"></div>
+
+<button onclick="nextQuestion()">
+Next
+</button>
+
+
+<!-- PEMBAHASAN -->
+
+<div
+id="explanationBox"
+class="explanation-box">
+
+<h3 id="explanationTitle"></h3>
+
+<p id="explanationText"></p>
+
+<button onclick="continueQuiz()">
+Lanjut
+</button>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
