@@ -555,7 +555,34 @@ explanation:
 
 },
 
+{
+question:
+`
+<img src="Gambar 1.png" class="question-image">
 
+<br><br>
+
+イラストにやるとどんなグラフですか。
+`,
+
+options:[
+
+"A. <ruby>災害<rt>さいがい</rt></ruby>や<ruby>事故<rt>じこ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>グラフ",
+
+"B. <ruby>年代別<rt>ねんだいべつ</rt></ruby><ruby>労働力人口<rt>ろうどうりょくじんこう</rt></ruby>の<ruby>調査結果<rt>ちょうさけっか</rt></ruby>のグラフ",
+
+"C. <ruby>日本<rt>にほん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>",
+
+"D. ベトナムの<ruby>特定技能実習生<rt>とくていぎのうじっしゅうせい</rt></ruby>"
+
+],
+
+answer:1,
+
+explanation:
+"Arti Soal:\nGrafik pada ilustrasi tersebut menunjukkan grafik apa?\n\nB. 年代別(ねんだいべつ)労働力人口(ろうどうりょくじんこう)の調査結果(ちょうさけっか)のグラフ\n\nArtinya:\nGrafik hasil survei jumlah tenaga kerja berdasarkan usia.\n\nPembahasan:\nIlustrasi tersebut menunjukkan data tenaga kerja berdasarkan kelompok usia sehingga jawaban yang benar adalah B.\n\nPilihan lain salah karena:\n\nA = grafik kecelakaan ❌\nC = data orang asing di Jepang ❌\nD = peserta magang keterampilan Vietnam ❌"
+
+},
 
 ]
 
