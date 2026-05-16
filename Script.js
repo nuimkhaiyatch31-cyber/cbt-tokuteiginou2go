@@ -1331,6 +1331,58 @@ localStorage.getItem(
 
 questions.length;
 
+
+
+// ======================
+// DEMO MESSAGE
+// ======================
+
+const selectedSet =
+
+localStorage.getItem(
+"selectedSet"
+);
+
+if(selectedSet === "demo"){
+
+document.getElementById(
+"premiumMessage"
+).innerHTML =
+
+`
+<br><br>
+
+<b>
+Ingin mengakses seluruh soal CBT?
+</b>
+
+<br><br>
+
+Silahkan melakukan pembayaran
+untuk mendapatkan akun member premium.
+
+`;
+
+}
+
+}
+
+document.getElementById(
+"scoreText"
+).innerText =
+
+localStorage.getItem(
+"score"
+)
+
++
+
+" / "
+
++
+
+questions.length;
+
 }
 
 
