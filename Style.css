@@ -238,3 +238,19 @@ rt{
     line-height:2;
 
 }
+
+.question-image{
+
+    width:100%;
+
+    max-width:500px;
+
+    display:block;
+
+    margin:auto;
+
+    border-radius:20px;
+
+    margin-bottom:20px;
+
+}
