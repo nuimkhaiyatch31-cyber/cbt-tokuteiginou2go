@@ -1128,11 +1128,34 @@ explanation:
 
 }
  
-
-
-
 ]
 
+paket2:[
+{
+question:
+"<ruby>足場<rt>あしば</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>なことは<ruby>何<rt>なん</rt></ruby>ですか。",
+
+options:[
+
+"A. <ruby>作業<rt>さぎょう</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わらせること",
+
+"B. <ruby>安全帯<rt>あんぜんたい</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>すること",
+
+"C. <ruby>大声<rt>おおごえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すこと",
+
+"D. <ruby>道具<rt>どうぐ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくすること"
+
+],
+
+answer:1,
+
+explanation:
+"Arti Soal:\nApa hal yang paling penting dalam pekerjaan scaffolding/perancah?\n\nB. 安全帯(あんぜんたい)を使用(しよう)すること\n\nArtinya:\nMenggunakan sabuk pengaman.\n\nPembahasan:\nDalam pekerjaan di ketinggian seperti 足場作業, penggunaan alat pengaman sangat penting untuk mencegah jatuh dan kecelakaan kerja.\n\nPilihan lain salah karena:\n\nA = kecepatan bukan prioritas utama ❌\nC = berbicara keras tidak berkaitan dengan keselamatan ❌\nD = mengurangi alat bukan faktor terpenting ❌"
+
+},
+
+]
+  
 };
 
 
