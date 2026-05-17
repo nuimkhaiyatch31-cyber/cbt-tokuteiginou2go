@@ -1135,23 +1135,121 @@ paket2:[
 
 {
 question:
-"Soal Paket 2",
+"<ruby>足場<rt>あしば</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>なことは<ruby>何<rt>なん</rt></ruby>ですか。",
 
 options:[
 
-"A. Jawaban A",
-"B. Jawaban B",
-"C. Jawaban C",
-"D. Jawaban D"
+"A. <ruby>作業<rt>さぎょう</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わらせること",
+
+"B. <ruby>安全帯<rt>あんぜんたい</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>すること",
+
+"C. <ruby>大声<rt>おおごえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すこと",
+
+"D. <ruby>道具<rt>どうぐ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくすること"
 
 ],
 
-answer:2,
+answer:1,
 
 explanation:
-"Pembahasan paket 2"
+"Arti Soal:\nApa hal yang paling penting dalam pekerjaan scaffolding?\n\nB. 安全帯(あんぜんたい)を使用(しよう)すること\n\nArtinya:\nMenggunakan safety belt.\n\nPembahasan:\nPada pekerjaan di ketinggian, penggunaan safety belt sangat penting untuk mencegah kecelakaan jatuh.\n\nPilihan lain salah karena:\n\nA = kecepatan bukan prioritas utama ❌\nC = berbicara keras tidak berkaitan dengan keselamatan ❌\nD = mengurangi alat bukan faktor utama ❌"
 
-}
+},
+
+{
+question:
+"<ruby>鉄筋<rt>てっきん</rt></ruby>コンクリートの<ruby>建物<rt>たてもの</rt></ruby>で、<ruby>鉄筋<rt>てっきん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+
+options:[
+
+"A. <ruby>圧縮力<rt>あっしゅくりょく</rt></ruby>だけを<ruby>支<rt>ささ</rt></ruby>える",
+
+"B. <ruby>引張力<rt>ひっぱりりょく</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くする",
+
+"C. <ruby>色<rt>いろ</rt></ruby>を<ruby>良<rt>よ</rt></ruby>くする",
+
+"D. <ruby>防水<rt>ぼうすい</rt></ruby>だけを<ruby>行<rt>おこな</rt></ruby>う"
+
+],
+
+answer:1,
+
+explanation:
+"Arti Soal:\nApa fungsi besi tulangan pada bangunan beton bertulang?\n\nB. 引張力(ひっぱりりょく)を強(つよ)くする\n\nArtinya:\nMemperkuat gaya tarik.\n\nPembahasan:\nBesi tulangan digunakan untuk memperkuat kekuatan tarik pada beton.\n\nPilihan lain salah karena:\n\nA = beton menahan tekan, bukan hanya besi ❌\nC = bukan untuk memperindah warna ❌\nD = bukan khusus waterproofing ❌"
+
+},
+
+{
+question:
+"<ruby>高所作業<rt>こうしょさぎょう</rt></ruby>で<ruby>使用<rt>しよう</rt></ruby>する<ruby>保護具<rt>ほごぐ</rt></ruby>はどれですか。",
+
+options:[
+
+"A. ヘルメットと<ruby>安全帯<rt>あんぜんたい</rt></ruby>",
+
+"B. サンダル",
+
+"C. タオル",
+
+"D. <ruby>軍手<rt>ぐんて</rt></ruby>だけ"
+
+],
+
+answer:0,
+
+explanation:
+"Arti Soal:\nAlat pelindung apa yang digunakan saat bekerja di tempat tinggi?\n\nA. ヘルメットと安全帯(あんぜんたい)\n\nArtinya:\nHelm dan safety belt.\n\nPembahasan:\nPekerjaan di tempat tinggi wajib menggunakan APD untuk keselamatan.\n\nPilihan lain salah karena:\n\nB = sandal tidak aman ❌\nC = handuk bukan alat pelindung ❌\nD = sarung tangan saja tidak cukup ❌"
+
+},
+
+{
+question:
+"コンクリートを<ruby>打設<rt>だせつ</rt></ruby>した<ruby>後<rt>あと</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>作業<rt>さぎょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+
+options:[
+
+"A. <ruby>養生<rt>ようじょう</rt></ruby>",
+
+"B. <ruby>解体<rt>かいたい</rt></ruby>",
+
+"C. <ruby>塗装<rt>とそう</rt></ruby>",
+
+"D. <ruby>掘削<rt>くっさく</rt></ruby>"
+
+],
+
+answer:0,
+
+explanation:
+"Arti Soal:\nPekerjaan apa yang diperlukan setelah pengecoran beton?\n\nA. 養生(ようじょう)\n\nArtinya:\nPerawatan beton.\n\nPembahasan:\nBeton perlu dirawat agar mendapatkan kekuatan maksimal.\n\nPilihan lain salah karena:\n\nB = pembongkaran bukan tahap berikutnya ❌\nC = pengecatan bukan proses utama beton ❌\nD = penggalian tidak berkaitan ❌"
+
+},
+
+{
+question:
+"<ruby>建設現場<rt>けんせつげんば</rt></ruby>でKY<ruby>活動<rt>かつどう</rt></ruby>とは<ruby>何<rt>なん</rt></ruby>ですか。",
+
+options:[
+
+"A. <ruby>危険予知<rt>きけんよち</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>",
+
+"B. <ruby>給料<rt>きゅうりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>",
+
+"C. <ruby>建物<rt>たてもの</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+
+"D. <ruby>機械<rt>きかい</rt></ruby><ruby>修理<rt>しゅうり</rt></ruby>"
+
+],
+
+answer:0,
+
+explanation:
+"Arti Soal:\nApa yang dimaksud dengan aktivitas KY di lokasi konstruksi?\n\nA. 危険予知活動(きけんよちかつどう)\n\nArtinya:\nKegiatan prediksi bahaya.\n\nPembahasan:\nKY dilakukan untuk memprediksi bahaya sebelum pekerjaan dimulai agar mencegah kecelakaan.\n\nPilihan lain salah karena:\n\nB = bukan pengecekan gaji ❌\nC = bukan pemeriksaan bangunan ❌\nD = bukan perbaikan mesin ❌"
+
+},
+
+
+
 
 ],
 
