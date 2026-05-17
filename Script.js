@@ -1489,3 +1489,22 @@ untuk mendapatkan akun premium.
 }
 
 }
+
+// ======================
+// LOGOUT
+// ======================
+
+function logout(){
+
+localStorage.removeItem(
+"user"
+);
+
+localStorage.removeItem(
+"selectedSet"
+);
+
+window.location.href =
+"index.html";
+
+}
