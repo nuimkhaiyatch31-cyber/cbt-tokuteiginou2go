@@ -2057,7 +2057,7 @@ explanation:
 paket3:[
 {
 question:
-"<ruby>リスク低減<rt>ていげん</rt></ruby><ruby>措置<rt>そち</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>における「<ruby>管理的<rt>かんりてき</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>」として<ruby>行<rt>おこな</rt></ruby>うものは、<ruby>次<rt>つぎ</rt></ruby>のうちどれか。",
+"リスク<ruby>低減<rt>ていげん</rt></ruby><ruby>措置<rt>そち</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>における「<ruby>管理的<rt>かんりてき</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>」として<ruby>行<rt>おこな</rt></ruby>うものは、<ruby>次<rt>つぎ</rt></ruby>のうちどれか。",
 
 options:[
 
