@@ -2308,51 +2308,6 @@ explanation:
 
 },
 
-{
-question:
-"パワーハラスメントに<ruby>該当<rt>がいとう</rt></ruby>しないものを<ruby>選<rt>えら</rt></ruby>べ。",
-
-options:[
-
-"A. <ruby>暴言<rt>ぼうげん</rt></ruby>",
-
-"B. <ruby>仕事<rt>しごと</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>を<ruby>強<rt>し</rt></ruby>いる",
-
-"C. <ruby>無視<rt>むし</rt></ruby>",
-
-"D. <ruby>適正<rt>てきせい</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>"
-
-],
-
-answer:3,
-
-explanation:
-"Arti Soal:\nPilih yang bukan termasuk power harassment.\n\nD. 適正(てきせい)な仕事(しごと)の指示(しじ)\n\nArtinya:\nInstruksi pekerjaan yang sesuai.\n\nPembahasan:\nMemberikan instruksi kerja yang wajar bukan termasuk harassment.\n\nPilihan lain salah karena:\n\nA = kekerasan verbal ❌\nB = pemaksaan tidak wajar ❌\nC = mengabaikan termasuk harassment ❌"
-
-},
-
-{
-question:
-"<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>指示<rt>しじ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えたり、<ruby>図面<rt>ずめん</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>間違<rt>まちが</rt></ruby>えたりして<ruby>施工品質<rt>せこうひんしつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>わる<ruby>問題<rt>もんだい</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>起<rt>お</rt></ruby>こすことは<ruby>何<rt>なん</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれますか。",
-
-options:[
-
-"A. <ruby>注意低下<rt>ちゅういていか</rt></ruby>",
-
-"B. <ruby>疲労<rt>ひろう</rt></ruby>",
-
-"C. <ruby>連絡不足<rt>れんらくぶそく</rt></ruby>",
-
-"D. <ruby>認知<rt>にんち</rt></ruby>ミス"
-
-],
-
-answer:3,
-
-explanation:
-"Arti Soal:\nApa sebutan untuk salah memahami instruksi atau gambar kerja sehingga menyebabkan masalah kualitas?\n\nD. 認知(にんち)ミス\n\nArtinya:\nKesalahan pengenalan/pemahaman.\n\nPembahasan:\n認知ミス terjadi karena salah memahami informasi atau instruksi.\n\nPilihan lain salah karena:\n\nA = hanya penurunan perhatian ❌\nB = kelelahan ❌\nC = kurang komunikasi ❌"
-
-},  
 
 ],
 
