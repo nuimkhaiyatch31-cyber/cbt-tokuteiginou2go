@@ -2075,9 +2075,9 @@ explanation:
 "Arti Soal:\nManakah yang termasuk tindakan pengendalian administratif dalam pengurangan risiko?\n\nB. 作業(さぎょう)マニュアルの整備(せいび)\n\nArtinya:\nMenyusun atau memperbaiki manual/prosedur kerja.\n\nPembahasan:\n管理的対策 (pengendalian administratif) adalah pengendalian melalui aturan kerja, SOP, pelatihan, dan manual kerja.\n\nPilihan lain salah karena:\n\nA = termasuk eliminasi bahaya ❌\nC = termasuk penggunaan APD ❌\nD = termasuk pengendalian teknik/engineering control ❌"
 
 }
- ]
-
 ],
+
+  
 
   
   
