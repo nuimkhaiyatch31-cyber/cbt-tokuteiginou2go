@@ -2052,6 +2052,8 @@ explanation:
 "Arti Soal:\nApa alasan utama memakai helm di lokasi konstruksi?\n\nD. 落下物(らっかぶつ)や衝撃(しょうげき)から頭(あたま)を守(まも)るため\n\nArtinya:\nMelindungi kepala dari benda jatuh dan benturan.\n\nPembahasan:\nHelm keselamatan adalah APD penting untuk melindungi kepala pekerja.\n\nPilihan lain salah karena:\n\nA = bukan fungsi helm ❌\nB = bukan untuk membawa barang ❌\nC = bukan untuk mengikat pakaian ❌"
 
 },
+
+],
 paket3:[
 {
 question:
