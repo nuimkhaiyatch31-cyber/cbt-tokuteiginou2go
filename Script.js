@@ -145,6 +145,52 @@ answer:2,
 explanation:
 "C. 翌日(よくじつ)の作業(さぎょう)の段取(だんど)りや準備(じゅんび)をするつもりで後片付(あとかたづ)けます\n\nArtinya:\nMembereskan dan merapikan setelah pekerjaan selesai sambil menyiapkan pekerjaan untuk hari berikutnya.\n\nPilihan lain salah karena:\n\nA = tidak melakukan apa-apa ❌\nB = tidak membersihkan ❌\nD = tidak memastikan api padam ❌"
 
+},
+
+ {
+question:
+"<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>わってから、<ruby>何<rt>なに</rt></ruby>をしなければならないか。",
+
+options:[
+
+"A. <ruby>何<rt>なに</rt></ruby>にもしなくてもいいです",
+
+"B. <ruby>綺麗<rt>きれい</rt></ruby>に<ruby>見<rt>み</rt></ruby>えるから<ruby>掃除<rt>そうじ</rt></ruby>しません",
+
+"C. <ruby>翌日<rt>よくじつ</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>段取<rt>だんど</rt></ruby>りや<ruby>準備<rt>じゅんび</rt></ruby>をするつもりで<ruby>後片付<rt>あとかたづ</rt></ruby>けます",
+
+"D. <ruby>火<rt>ひ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>消火<rt>しょうか</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しません"
+
+],
+
+answer:2,
+
+explanation:
+"C. 翌日(よくじつ)の作業(さぎょう)の段取(だんど)りや準備(じゅんび)をするつもりで後片付(あとかたづ)けます\n\nArtinya:\n“Membereskan dan merapikan setelah pekerjaan selesai sambil menyiapkan pekerjaan untuk hari berikutnya.”\n\nPembahasan:\nSetelah pekerjaan selesai, area kerja harus dirapikan dan dipersiapkan untuk pekerjaan hari berikutnya agar pekerjaan berjalan aman dan efisien.\n\nPilihan lain salah karena:\n\nA = tidak melakukan apa-apa ❌\nB = tidak membersihkan area kerja ❌\nD = tidak memastikan api padam ❌ (berbahaya)"
+
+}, 
+
+  {
+question:
+"<ruby>施工計画<rt>せこうけいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>や<ruby>工程管理<rt>こうていかんり</rt></ruby>、<ruby>品質管理<rt>ひんしつかんり</rt></ruby>、<ruby>安全管理<rt>あんぜんかんり</rt></ruby>などの<ruby>監督業務<rt>かんとくぎょうむ</rt></ruby>をすることは<ruby>誰<rt>だれ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>ですか。 <ruby>相応<rt>ふさ</rt></ruby>しいものを<ruby>選<rt>えら</rt></ruby>びなさい。",
+
+options:[
+
+"A. <ruby>主任技術者<rt>しゅにんぎじゅつしゃ</rt></ruby>",
+
+"B. <ruby>職長<rt>しょくちょう</rt></ruby>",
+
+"C. <ruby>作業員<rt>さぎょういん</rt></ruby>",
+
+"D. <ruby>発注者<rt>はっちゅうしゃ</rt></ruby>"
+
+],
+
+answer:0,
+
+explanation:
+"A. 主任技術者(しゅにんぎじゅつしゃ)\n\nArtinya:\nPenanggung jawab teknis yang mengawasi perencanaan pekerjaan, manajemen proses kerja, kualitas, dan keselamatan kerja.\n\nPembahasan:\n主任技術者 bertanggung jawab untuk membuat rencana pelaksanaan konstruksi serta mengawasi kualitas, progres pekerjaan, dan keselamatan di lapangan.\n\nPilihan lain salah karena:\n\nB = hanya memimpin pekerja lapangan ❌\nC = pekerja biasa ❌\nD = pihak pemberi proyek ❌"
+
 }
 
 ],
