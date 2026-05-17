@@ -1152,7 +1152,7 @@ answer:1,
 explanation:
 "Arti Soal:\nApa hal yang paling penting dalam pekerjaan scaffolding/perancah?\n\nB. 安全帯(あんぜんたい)を使用(しよう)すること\n\nArtinya:\nMenggunakan sabuk pengaman.\n\nPembahasan:\nDalam pekerjaan di ketinggian seperti 足場作業, penggunaan alat pengaman sangat penting untuk mencegah jatuh dan kecelakaan kerja.\n\nPilihan lain salah karena:\n\nA = kecepatan bukan prioritas utama ❌\nC = berbicara keras tidak berkaitan dengan keselamatan ❌\nD = mengurangi alat bukan faktor terpenting ❌"
 
-},
+}
 
 ]
   
