@@ -1128,7 +1128,35 @@ explanation:
 
 }
  
-]
+],
+
+
+paket2:[
+
+{
+question:
+"Soal Paket 2",
+
+options:[
+
+"A. Jawaban A",
+"B. Jawaban B",
+"C. Jawaban C",
+"D. Jawaban D"
+
+],
+
+answer:2,
+
+explanation:
+"Pembahasan paket 2"
+
+}
+
+],
+
+  
+  
 
 };
 
