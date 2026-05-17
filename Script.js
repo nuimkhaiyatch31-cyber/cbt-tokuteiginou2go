@@ -2077,31 +2077,6 @@ explanation:
 }
  ]
 
-paket3:[
-{
-question:
-"<ruby>リスク低減<rt>ていげん</rt></ruby><ruby>措置<rt>そち</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>における「<ruby>管理的<rt>かんりてき</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>」として<ruby>行<rt>おこな</rt></ruby>うものは、<ruby>次<rt>つぎ</rt></ruby>のうちどれか。",
-
-options:[
-
-"A. <ruby>作業<rt>さぎょう</rt></ruby>そのものの<ruby>廃止<rt>はいし</rt></ruby>",
-
-"B. <ruby>作業<rt>さぎょう</rt></ruby>マニュアルの<ruby>整備<rt>せいび</rt></ruby>",
-
-"C. <ruby>保護手袋<rt>ほごてぶくろ</rt></ruby>などの<ruby>保護具<rt>ほごぐ</rt></ruby>の<ruby>使用<rt>しよう</rt></ruby>",
-
-"D. <ruby>機械<rt>きかい</rt></ruby>・<ruby>設備<rt>せつび</rt></ruby>の<ruby>防護柵<rt>ぼうごさく</rt></ruby>の<ruby>設置<rt>せっち</rt></ruby>"
-
-],
-
-answer:1,
-
-explanation:
-"Arti Soal:\nManakah yang termasuk tindakan pengendalian administratif dalam pengurangan risiko?\n\nB. 作業(さぎょう)マニュアルの整備(せいび)\n\nArtinya:\nMenyusun atau memperbaiki manual/prosedur kerja.\n\nPembahasan:\n管理的対策 (pengendalian administratif) adalah pengendalian melalui aturan kerja, SOP, pelatihan, dan manual kerja.\n\nPilihan lain salah karena:\n\nA = termasuk eliminasi bahaya ❌\nC = termasuk penggunaan APD ❌\nD = termasuk pengendalian teknik/engineering control ❌"
-
-},
-
-  ]  
 ],
 
   
