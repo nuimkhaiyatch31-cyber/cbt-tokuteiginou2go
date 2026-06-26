@@ -21,6 +21,9 @@ options:[
 ],
 
 answer:2,
+
+explanation:
+"Arti Soal:\nPilih unsur yang tidak termasuk dalam empat unsur pembentuk pekerjaan.\n\nJawaban:\nC. 発注者 (pemberi kerja/pemesan).\n\nPembahasan:\nEmpat unsur pekerjaan meliputi metode kerja, urutan kerja, informasi lapangan, serta peralatan dan material. 発注者 adalah pihak yang memesan pekerjaan, sehingga bukan unsur teknis yang membentuk pelaksanaan pekerjaan."
 },
 {
 question:
@@ -39,6 +42,9 @@ options:[
 ],
 
 answer:2,
+
+explanation:
+"Arti Soal:\nApa yang dimaksud dengan pekerjaan pembangunan pemecah gelombang?\n\nJawaban:\nC. Pekerjaan untuk mencegah gelombang masuk ke pelabuhan.\n\nPembahasan:\nPemecah gelombang (防波堤) dibangun untuk meredam atau menghalangi gelombang laut agar area pelabuhan tetap tenang. Dengan demikian kapal dapat bersandar serta melakukan bongkar muat dengan lebih aman."
 },
 {
 question:
@@ -57,6 +63,9 @@ options:[
 ],
 
 answer:2,
+
+explanation:
+"Arti Soal:\nPilih pekerjaan menimbun tanah untuk membuat permukaan tanah menjadi rata.\n\nJawaban:\nC. 盛土 (morido/timbunan tanah).\n\nPembahasan:\n盛土 adalah pekerjaan menambahkan tanah pada tanah rendah atau tidak rata hingga mencapai elevasi yang diperlukan. Berbeda dengan 切土 yang memotong tanah, pekerjaan ini justru menambah tanah."
 },
 {
 question:
@@ -75,6 +84,9 @@ options:[
 ],
 
 answer:2,
+
+explanation:
+"Arti Soal:\nApa istilah untuk mengerjakan kembali tahapan pekerjaan yang sudah terlanjur dikerjakan?\n\nJawaban:\nC. 手戻り (temodori).\n\nPembahasan:\n手戻り berarti pekerjaan harus kembali ke tahap sebelumnya dan dikerjakan ulang karena kesalahan atau perubahan. Kondisi ini menambah waktu, biaya, dan tenaga kerja."
 },
 {
 question:
@@ -93,6 +105,9 @@ options:[
 ],
 
 answer:1,
+
+explanation:
+"Arti Soal:\nPilih jenis jalan yang tidak termasuk pekerjaan jalan.\n\nJawaban:\nB. とう道.\n\nPembahasan:\nJalan nasional, jalan tol, dan jalan untuk keperluan kehutanan merupakan contoh jalan. とう道 bukan klasifikasi jalan pada konteks pekerjaan konstruksi jalan, sehingga menjadi pilihan yang tepat."
 },
 {
 question:
@@ -111,6 +126,9 @@ options:[
 ],
 
 answer:0,
+
+explanation:
+"Arti Soal:\nSiapa yang dibimbing atau diarahkan oleh kepala kerja (職長)?\n\nJawaban:\nA. 作業員 (pekerja lapangan).\n\nPembahasan:\n職長 bertugas memimpin pekerjaan di lapangan, memberi instruksi, mengatur pembagian tugas, dan memastikan pekerjaan dilakukan dengan aman. Karena itu pihak yang terutama dibimbing adalah 作業員."
 },
 {
 question:
@@ -129,6 +147,9 @@ options:[
 ],
 
 answer:2,
+
+explanation:
+"Arti Soal:\nPekerjaan apakah yang disebut pekerjaan struktur bawah tanah?\n\nJawaban:\nC. Struktur yang terdiri dari fondasi, kolom, balok, dinding, dan lantai.\n\nPembahasan:\n地下躯体工事 adalah pekerjaan membangun bagian struktur bangunan yang berada di bawah atau dekat permukaan tanah. Komponennya mencakup fondasi, kolom, balok, dinding, dan lantai, bukan pekerjaan rangka baja atau pekerjaan finishing."
 },
 {
 question:
@@ -147,6 +168,9 @@ options:[
 ],
 
 answer:1,
+
+explanation:
+"Arti Soal:\nApa nama gambar pelaksanaan yang menunjukkan kolom dan balok yang berkaitan dengan keamanan bangunan?\n\nJawaban:\nB. 構造図 (gambar struktur).\n\nPembahasan:\n構造図 menjelaskan elemen penahan beban, seperti fondasi, kolom, balok, dan dinding struktur. Gambar ini digunakan untuk memastikan bangunan memiliki kekuatan dan keamanan yang sesuai rancangan."
 },
 {
 question:
@@ -165,6 +189,9 @@ options:[
 ],
 
 answer:1,
+
+explanation:
+"Arti Soal:\nPilih yang tidak benar mengenai empat ronde dasar KYT.\n\nJawaban:\nB. Membuang barang yang tidak diperlukan.\n\nPembahasan:\nEmpat ronde KYT berfokus pada mengenali bahaya, menemukan poin bahaya utama, memikirkan tindakan pencegahan, dan menetapkan target tindakan. Membuang barang yang tidak diperlukan merupakan kegiatan 5S, bukan tahapan KYT."
 },
 {
 question:
@@ -183,6 +210,9 @@ options:[
 ],
 
 answer:1,
+
+explanation:
+"Arti Soal:\nPekerjaan apa yang memasang kloset, wastafel, dan peralatan serupa?\n\nJawaban:\nB. 衛生器具設備工事 (pekerjaan pemasangan peralatan sanitasi).\n\nPembahasan:\nPekerjaan ini mencakup pemasangan perlengkapan sanitasi seperti kloset, wastafel, urinoir, dan perlengkapan kamar mandi. Pekerjaan ini berbeda dari sistem penyediaan air, air panas, maupun pembuangan air."
 },
 
 {
