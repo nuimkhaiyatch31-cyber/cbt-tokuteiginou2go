@@ -18,6 +18,14 @@ const users = [
   {
     username: "nuim",
     password: "12345"
+  },
+  {
+    username: "rio",
+    password: "12345"
+  },
+  {
+    username: "andi",
+    password: "12345"
   }
 ];
 
