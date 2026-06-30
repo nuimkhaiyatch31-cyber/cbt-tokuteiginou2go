@@ -4,7 +4,7 @@ const users = [
     password: "12345"
   },
    {
-    username: "muhamamad",
+    username: "muhammad",
     password: "12345"
   },
   {
