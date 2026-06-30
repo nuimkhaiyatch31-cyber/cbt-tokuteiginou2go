@@ -3,6 +3,10 @@ const users = [
     username: "mantono",
     password: "12345"
   },
+   {
+    username: "muhamamad",
+    password: "12345"
+  },
   {
     username: "hendi",
     password: "12345"
@@ -27,6 +31,7 @@ const users = [
     username: "andi",
     password: "12345"
   }
+  
 ];
 
 
