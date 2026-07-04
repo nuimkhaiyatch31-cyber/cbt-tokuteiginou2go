@@ -1,4 +1,9 @@
 const users = [
+ {
+    username: "dwi",
+    password: "12345"
+  },
+  
   {
     username: "mantono",
     password: "12345"
